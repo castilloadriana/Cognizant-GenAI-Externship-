@@ -38,3 +38,7 @@ def fibonacci(num):
     elif num == 1:
         return 1
     return fibonacci(num - 1) + fibonacci(num - 2)
+
+print(f"The factorial of 5 is {factorial(5)}")
+print(f"The 6th Fibonacci number is {fibonacci(6)}.")
+
