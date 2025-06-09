@@ -14,6 +14,11 @@ def fibonacci(num):
         return 1
     return fibonacci(num - 1) + fibonacci(num - 2)
 
+
+#Call: program that presents a menu of choices and performs that task: Calculate the factorial of a number, Find the nth Fibonacci number, Exit.
+#The user should select an option by entering a number.
+# Returns the result or asks for clarity
+
 def call():
     user_input= int(input("Welcome to the Recursive Artistry Program! Choose an option: 1. Calculate Factorial 2. Find Fibonacci 3. Exit "))
 
