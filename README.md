@@ -6,7 +6,7 @@ Welcome to my GitHub repository for the **Cognizant Generative AI Externship**. 
 
 Throughout the externship, I:
 - Completed structured Python programming exercises and standalone projects
-- Built and fine-tuned **4 generative AI models** using **PyTorch**, **Hugging Face**, and **OpenAI’s API**
+- Built and fine-tuned **4 generative AI models** using **PyTorch**, **Hugging Face**, and **Cohere’s API**
 - Explored prompt engineering and model parameter tuning
 - Reflected on model performance and limitations through written reports
 
@@ -44,7 +44,7 @@ Used **GPT-2** to generate text from prompts. Experimented with prompt types, te
 Fine-tuned a **BERT** model on a sentiment analysis task using public Twitter data. Evaluated performance and learned debugging techniques.
 
 ### `creativeApp.ipynb` (in `Projects/BertFineTuning/`)
-Built a text generation script using **OpenAI’s GPT-3.5 API**. Designed and tested different prompt strategies and parameter settings to evaluate generation quality.
+Built a text generation script using **Cohere’s GPT-3.5 API**. Designed and tested different prompt strategies and parameter settings to evaluate generation quality.
 
 ---
 
@@ -64,7 +64,7 @@ Located in project folders (e.g., `fineTuningBERT.pdf`, `Cognizant_transformers.
 - Python
 - PyTorch
 - Hugging Face Transformers
-- OpenAI API
+- Cohere API
 - Jupyter / Google Colab
 
 ---
